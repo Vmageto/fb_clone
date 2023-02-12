@@ -1,2 +1,3 @@
-# fb_clone
+# PROJECT NAME 
+## A clone of facebook 
 facebook clone
